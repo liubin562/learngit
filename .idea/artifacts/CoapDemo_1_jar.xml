@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="CoapDemo_1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CoapDemo_1_jar</output-path>
+    <root id="root">
+      <element id="archive" name="CoapDemo_1.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="CoapDemo_1" />
+      </element>
+      <element id="library" level="project" name="Maven: org.eclipse.californium:element-connector:2.0.0-M7" />
+      <element id="library" level="project" name="Maven: org.eclipse.californium:scandium:2.0.0-M7" />
+      <element id="library" level="project" name="Maven: org.eclipse.californium:californium-core:2.0.0-M7" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
+    </root>
+  </artifact>
+</component>

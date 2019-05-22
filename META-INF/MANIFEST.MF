@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: element-connector-2.0.0-M7.jar scandium-2.0.0-M7.jar calif
+ ornium-core-2.0.0-M7.jar slf4j-api-1.7.25.jar
+Main-Class: Coap_Client
+
